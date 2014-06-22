@@ -1,6 +1,6 @@
 #Name : Guan-Jie Feng
 #Id: F74001161
-#Description: use argv to get the information , count fun to count the sum of 總價元
+#Description: use argv to get the information , count func to count the sum of 總價元
 
 
 # -*- coding: utf-8 -*-
