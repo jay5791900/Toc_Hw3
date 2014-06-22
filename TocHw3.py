@@ -17,8 +17,6 @@ def count(location,road,year):
 					count = count + 1
 	sum = sum / count	
 	print sum		    
-
-
 if __name__ == '__main__':
 	inpu = sys.argv
 	url = inpu[1]
@@ -28,16 +26,3 @@ if __name__ == '__main__':
 	unicode_roads = inpu[3].decode("utf8") #get road
 	unicode_year = inpu[4] #get year
 	count(unicode_location,unicode_roads,unicode_year)
-
-
-
-
-
-
-
-
-
-
-
-	
-	
